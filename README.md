@@ -11,12 +11,11 @@
 </p>
 
 ---
-
 ### 🏔️ Interactive 3D Projects Showcase
 
 <p align="center">
   <a href="https://tarunuttupulusu.github.io/" target="_blank">
-    <img src="./preview.jpg" width="100%" alt="3D Wanderer Projects Showcase" />
+    <img src="https://raw.githubusercontent.com/tarunuttupulusu/tarunuttupulusu.github.io/main/preview.jpg" width="100%" alt="3D Wanderer Projects Showcase" />
   </a>
 </p>
 
@@ -24,9 +23,6 @@
   <sub>✨ <i>Inspired by Caspar David Friedrich's "Wanderer above the Sea of Fog"</i></sub><br/>
   👉 <b><a href="https://tarunuttupulusu.github.io/">Click here to explore the Full 3D Interactive WebGL Experience ↗</a></b>
 </p>
-
----
-
 ### 👨‍💻 About Me
 
 I am a developer who loves building interactive 3D web experiences, clean user interfaces, and scalable applications.
