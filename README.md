@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey 👋, I'm Tarun Uttupulusu
 
-<!--
-**tarunuttupulusu/tarunuttupulusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Frontend Engineer • Creative Developer • Full Stack Explorer</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarunuttupulusu&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tarunuttupulusu?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
+  <img src="https://img.shields.io/badge/Three.js-3D%20Experience-black?style=flat-square&logo=three.js" alt="Three.js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏔️ Interactive 3D Projects Showcase
+
+<p align="center">
+  <a href="https://tarunuttupulusu.github.io/githubhero/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tarunuttupulusu/githubhero/main/wanderer-showcase.svg" width="100%" alt="3D Wanderer Projects Showcase" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ <i>Inspired by Caspar David Friedrich's "Wanderer above the Sea of Fog"</i></sub><br/>
+  👉 <b><a href="https://tarunuttupulusu.github.io/githubhero/">Click here to explore the Full 3D Interactive WebGL Experience ↗</a></b>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a developer who loves building interactive 3D web experiences, clean user interfaces, and scalable applications.
+
+- 🔭 Currently building creative Three.js & full-stack web applications
+- 🌱 Exploring WebGL shaders, Three.js, React Three Fiber, and high-performance frontend architectures
+- 💬 Ask me about **React, Next.js, Three.js, TypeScript, and UI Engineering**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind,nodejs,express,python,git,github,vite,docker,vercel" alt="Tech Stack" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/tarunuttupulusu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
