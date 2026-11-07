@@ -15,14 +15,14 @@
 ### 🏔️ Interactive 3D Projects Showcase
 
 <p align="center">
-  <a href="https://tarunuttupulusu.github.io/githubhero/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tarunuttupulusu/githubhero/main/wanderer-showcase.svg" width="100%" alt="3D Wanderer Projects Showcase" />
+  <a href="https://tarunuttupulusu.github.io/" target="_blank">
+    <img src="./preview.jpg" width="100%" alt="3D Wanderer Projects Showcase" />
   </a>
 </p>
 
 <p align="center">
   <sub>✨ <i>Inspired by Caspar David Friedrich's "Wanderer above the Sea of Fog"</i></sub><br/>
-  👉 <b><a href="https://tarunuttupulusu.github.io/githubhero/">Click here to explore the Full 3D Interactive WebGL Experience ↗</a></b>
+  👉 <b><a href="https://tarunuttupulusu.github.io/">Click here to explore the Full 3D Interactive WebGL Experience ↗</a></b>
 </p>
 
 ---
